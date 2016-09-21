@@ -1,0 +1,29 @@
+.footContact{
+	margin-left:auto;
+	margin-right:auto;
+	width:1024px;
+	padding-top:20px;
+	padding-bottom:20px;
+	color:#FFF;
+	text-align:center;
+}
+.footContactLogoUNAD{
+	width:27.55%;
+	padding-left: 1.45%;
+	float:left;
+	text-align: left;
+}
+.footContactTextES,.footContactTextEN{
+	width:35%;
+	float:left;
+	font-size:11px;
+	text-align:left;
+	line-height:14px;
+}
+.cleanUnad{
+	clear: both;
+}
+.footContactFull{
+	width: 100%;
+	background: #000;
+}
